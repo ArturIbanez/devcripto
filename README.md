@@ -32,7 +32,7 @@ Aplicação web desenvolvida com React + TypeScript que permite pesquisar e visu
 📦 Instalação
 
 1. Clone o repositório
-   git clone https://github.com/ArturIbañez/devcripto.git
+   git clone https://github.com/ArturIbanez/devcripto.git
 
 2. Acesse a pasta do projeto
    cd devcripto
